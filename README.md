@@ -1,7 +1,7 @@
 ### Hi  I'm Rohith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Rohith404)](https://www.linkedin.com/in/Rohith404)
 [![Twitter Badge](https://img.shields.io/badge/--1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Rohith541133681)](https://twitter.com/Rohith541133681)
-[![Instagram Badge](https://img.shields.io/badge/--purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/rohith__404/)]([https://www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri](https://www.instagram.com/rohith__404/))
+[![Instagram Badge](https://img.shields.io/badge/--purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/rohith__404/)]([https://www.instagram.com/rohith__404/](https://www.instagram.com/rohith__404/))
 [![Gmail Badge](https://img.shields.io/badge/--c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:talk.rohith404@gmail.com)](mailto:talk.rohith404@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohith404&label=Profile%20views&color=0e75b6&style=flat" alt="Rohith404" /> </p>
