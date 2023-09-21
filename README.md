@@ -32,6 +32,5 @@ CSS          ▒░░░░░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohith404&show_icons=true&locale=en&layout=compact" alt="rohith404" /></p>
 📈 my github status
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rohith404&show_icons=true&theme=gotham" alt="Rohith404" />
+<p align="center"> <img src="https://github-readme-status.vercel.app/api?username=Rohith404&show_icons=true&theme=gotham" alt="Rohith404" />
