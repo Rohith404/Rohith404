@@ -34,6 +34,5 @@ CSS          ▒░░░░░░░░░░░░░░░░░░░░░�
 <br>
 
 📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ranjithr-007&show_icons=true&theme=gotham" alt="Ranjithr-007" />
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohith404&show_icons=true&locale=en" alt="Rohith404" /></p>
 
