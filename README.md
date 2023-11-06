@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohith404&label=Profile%20views&color=0e75b6&style=flat" alt="Rohith404" /> </p>
 
-Hi, I'm [Rohith R]([https://www.renjithr.tk/](https://rohith404.github.io/Personal-Website/)), A passionate self-taught web developer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Rohith Ramaswami](https://rohith404.github.io/Personal-Website/), A passionate self-taught web developer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am a passionate person and I love what I do. I help designers, small agencies and bussinesses bring their idea to life. I turn your requirments into websites - on time and on budget.
 
