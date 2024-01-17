@@ -1,4 +1,4 @@
-### Hi  I'm Rohith Ramaswami <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi  I'm Rohith Ramaswamy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Rohith404)](https://www.linkedin.com/in/Rohith404)
 [![Twitter Badge](https://img.shields.io/badge/--1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Rohith541133681)](https://twitter.com/Rohith541133681)
 [![Instagram Badge](https://img.shields.io/badge/--purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/rohith__404/)]([https://www.instagram.com/rohith__404/](https://www.instagram.com/rohith__404/))
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohith404&label=Profile%20views&color=0e75b6&style=flat" alt="Rohith404" /> </p>
 
-Hi, I'm [Rohith Ramaswami](https://rohith404.github.io/Personal-Website/), A passionate self-taught web developer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Rohith Ramaswamy](https://rohith404.github.io/Personal-Website/), A passionate self-taught web developer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am a passionate person and I love what I do. I help designers, small agencies and bussinesses bring their idea to life. I turn your requirments into websites - on time and on budget.
 
